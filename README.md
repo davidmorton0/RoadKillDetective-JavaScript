@@ -1,7 +1,7 @@
 # RoadKillDetective-JavaScript
 
 Solution for Codewars problem: Road-Kill Detective - 5 kyu (JavaScript)
-Includes solution test for another solution (road_kill_solution_test) which fails in some cases for unusually named animals, such as beaar.
+Includes solution test for another solution (road_kill_solution_test) which fails in some cases for unusually named animals, such as 'beaar'.
 
 Details:
 My name is State Trooper Mark ("skidmark" ) McDingle.
